@@ -8,6 +8,6 @@
 ### [1. リモート環境でのモデル学習](./Training)  
 - リモート環境(Machine Learnning Compute)で R のモデル学習を実施 
 
-### [2. ハイパーパラメータのチューニング 設定](./Hyperparameter\ Tuning)  
+### [2. ハイパーパラメータのチューニング 設定](./Hyperparameter-Tuning)  
 - リモート環境(Machine Learnning Compute)で R のモデル学習を実施 
 - ハイパーパラメータのチューニングを並列処理を高速実行
